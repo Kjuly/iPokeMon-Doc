@@ -1,0 +1,11 @@
+.DS_Store
+*~
+.*.sw[po]
+
+*.pdf
+*.dvi
+*.log
+*.aux
+*.toc
+*.bbl
+*.blg

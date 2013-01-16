@@ -1,0 +1,105 @@
+%        File: ipokemon_paper.tex
+%     Created: Fri May 11 17:00 PM 2012 C
+% Last Change: Fri May 11 17:00 PM 2012 C
+%
+\documentclass{article}
+\usepackage{CJKutf8}
+
+% Package & settings for graphic
+\usepackage[pdftex]{graphicx}
+\usepackage{subfig} % Enable sub figure
+\graphicspath{./figure/}
+\DeclareGraphicsExtensions{.png,.jpg,.jpeg,.pdf}
+
+% Package for References & Cite
+\usepackage{natbib}
+
+\title{基于位置服务的口袋妖怪类游戏开发}
+\author{俞凯杰}
+
+
+\begin{document}
+\begin{CJK}{UTF8}{gbsn}
+	% Make title
+  \maketitle
+
+	% Rename
+  \renewcommand{\abstractname}{摘要}
+	\renewcommand{\figurename}{图}
+	\renewcommand{\refname}{参考文献}
+
+	% References style & cite settings
+	\bibliographystyle{unsrtnat}
+	\setcitestyle{super, square, aysep={}, yysep={;}}
+
+	% Begin content
+  \begin{abstract}
+  \end{abstract}
+
+  \newpage
+  \section{绪论}
+	\subsection{概述}
+	\subsection{课题背景及意义}
+	\subsection{国内外研究发展现状}
+	\subsubsection{LBS的研究发展现状}
+	\subsubsection{iOS的发展现状}
+	\subsection{本文的主要工作}
+	\subsection{本文的组织结构}
+	\subsection{本章小结}
+
+	\section{方法与技术}
+	\subsection{客户端设计模式}
+	\subsubsection{MVC设计模式}
+	\subsubsection{单例设计模式}
+	\subsection{客户端开发框架：Cocoa}
+	\subsection{服务器端开发框架：Bottle}
+	\subsection{RESTful Web服务}
+	\subsection{弹性云存储服务：Amazon EC2}
+	\subsection{键值存储服务：Redis}
+	\subsubsection{RDB快照}
+	\subsubsection{AOF日志}
+	\subsection{反向地理编码技术}
+	\subsection{开发环境}
+	\subsection{主要开发语言}
+	\subsection{本章小结}
+
+	\section{游戏总体设计}
+	\subsection{设计概要}
+	\subsubsection{游戏类别}
+	\subsubsection{游戏面向对象}
+	\subsection{整体框架}
+	\subsection{主要功能结构}
+	\subsection{游戏运行流程}
+	\subsection{数据库设计}
+	\subsubsection{客户端数据库设计}
+	\subsubsection{服务器端数据库设计}
+	\subsection{本章小结}
+
+	\section{游戏详细设计}
+	\subsection{项目开发规范}
+	\subsubsection{系统目录规划}
+	\subsubsection{命名规则}
+	\subsection{客户端设计与实现}
+	\subsubsection{视图层次关系}
+	\subsubsection{数据模型}
+	\subsubsection{单例}
+	\subsection{服务端接口设计与实现}
+	\subsection{基于位置服务的口袋妖怪分布机制实现}
+	\subsection{本章小结}
+
+	\section{游戏实现}
+	\subsection{客户端界面}
+	\subsection{基本功能}
+	\subsection{操作说明}
+	\subsection{本章小结}
+
+	\section{总结与展望}
+	\subsection{总结}
+	\subsection{展望}
+
+
+	% Import references datas
+  %\bibliography{references.bib}
+
+	\end{CJK}
+\end{document}
