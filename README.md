@@ -16,23 +16,23 @@ View the detail description [HERE](http://dev.kjuly.com/iPokeMon).
 <table>
   <tr><th colspan="2" style="text-align:center;">Paper Related Source</th></tr>
   <tr>
-    <td><a href="https://github.com/Kjuly/iPokeMon-Doc/_paper">_paper</a></td>
+    <td><a href="https://github.com/Kjuly/iPokeMon-Doc/tree/master/_paper">_paper</a></td>
     <td>The final "Paper" (LaTex & .doc files included)</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Kjuly/iPokeMon-Doc/_opening-report">_opening-report</a></td>
+    <td><a href="https://github.com/Kjuly/iPokeMon-Doc/tree/master/_opening-report">_opening-report</a></td>
     <td>The "Opening Report" (LaTex & .doc files included)</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Kjuly/iPokeMon-Doc/_literature-review">_literature-review</a></td>
+    <td><a href="https://github.com/Kjuly/iPokeMon-Doc/tree/master/_literature-review">_literature-review</a></td>
     <td>The "Literature Review" (LaTex & .doc files included)</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Kjuly/iPokeMon-Doc/_translation_ubiquitous-location-based-service">_translation_ubiquitous-location-based-service</a></td>
+    <td><a href="https://github.com/Kjuly/iPokeMon-Doc/tree/master/_translation_ubiquitous-location-based-service">_translation_ubiquitous-location-based-service</a></td>
     <td>The translation of "Ubiquitous Location Based Service" (LaTex & .doc files included)</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Kjuly/iPokeMon-Doc/_translation_zone-based-update-mechanism-for-lbs">_translation_zone-based-update-mechanism-for-lbs</a></td>
+    <td><a href="https://github.com/Kjuly/iPokeMon-Doc/tree/master/_translation_zone-based-update-mechanism-for-lbs">_translation_zone-based-update-mechanism-for-lbs</a></td>
     <td>The translation of "Zone Based Update Mechanism for LBS" (LaTex & .doc files included)</td>
   </tr>
 </table>
